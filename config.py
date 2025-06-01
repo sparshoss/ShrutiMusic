@@ -41,7 +41,7 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/TG_SELLER_ALL_GROUPS_ID")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+kzPnIEVC-a4zMDA9")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+ey82nA2Fin0yZGI1")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
